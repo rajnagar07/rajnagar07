@@ -44,7 +44,3 @@ I build secure, intelligent backend systems and AI-powered applications that sol
 - **Hotel Management System** — Full-stack hotel management platform (Flask, PostgreSQL/Supabase, SQLAlchemy) with booking, payments, and an admin dashboard.
 - **Customer Churn Prediction System** — ML pipeline (Scikit-Learn) achieving 84% accuracy using Logistic Regression, Random Forest, and XGBoost.
 
-📊 GitHub Stats:
----
-
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajnagar07&show_icons=true&theme=default)
