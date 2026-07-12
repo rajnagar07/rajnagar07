@@ -1,9 +1,9 @@
-✨ About Me ✨:
+✨ About Me ✨
 ---
 
 Hi there, I'm Raj!
 
-MCA Student @ SCSIT, DAVV Indore
+MCA Student DAVV Indore
 Python Backend Developer | AI & GenAI Integration
 I build secure, intelligent backend systems and AI-powered applications that solve real problems
 
