@@ -5,6 +5,7 @@ MCA Student, DAVV Indore
 Python Backend Developer | AI & GenAI Integration
 
 I build secure, intelligent backend systems and AI-powered applications that solve real-world problems.
+
 🌐 Socials:
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-nagar-a209aa241)
