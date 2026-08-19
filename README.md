@@ -34,6 +34,11 @@ I build secure, intelligent backend systems and AI-powered applications that sol
 - Applying for Software Engineering / Python Developer roles
 - Open to collaborations and opportunities!
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=rajnagar07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=rajnagar07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rajnagar07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 🚀 Featured Projects:
 ---
 - **AI Job Agent** — Aggregates software engineering job listings and uses AI to parse resumes, extract skills, and calculate job-match scores. Job aggregation and resume-intelligence phases are complete; currently building the recommendation engine and hardening it for production. Planned: LLM-powered resume feedback, personalized recommendations, and automated job alerts.
